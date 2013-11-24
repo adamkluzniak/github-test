@@ -1,4 +1,4 @@
 github-test
 ===========
 
-Test repo
+Test repository
